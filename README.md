@@ -1,6 +1,6 @@
 # USB Stick Copy Time Calculator - iOS App
 
-The USB Stick Copy Time Calculator is a Swift-based iOS app designed to help you quickly calculate the time it would take to copy data onto a USB stick based on two values: the size of the USB stick and its transfer speed. This app is developed by [Coding with Jan](https://github.com/codingwithjan).
+The USB Stick Copy Time Calculator is a Swift-based iOS app designed to help you quickly calculate the time it would take to copy data onto a USB stick based on two values: the size of the USB stick and its transfer speed. This app is developed by [Coding with Jan](https://github.com/codingwjan).
 
 ## Features
 
